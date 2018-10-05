@@ -1,5 +1,5 @@
 # ruiqin-FeelsBook
-# THE CITATIONs and references are put inside the code in order to pint out which part I used reference,
+# Some CITATIONs and references are put inside the code in order to point out which part I used reference, Those part are highly relied on reference
 
 
 
