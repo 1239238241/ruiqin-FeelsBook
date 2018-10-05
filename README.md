@@ -2,7 +2,8 @@
 # Some CITATIONs and references are put inside the code in order to point out which part I used reference, Those part are highly relied on reference
 
 The proper APK file is "app-release.apk" under the required address
-Reference: 
+
+#Reference: 
 https://www.youtube.com/watch?v=33BFCdL0Di0
 https://www.youtube.com/watch?v=33BFCdL0Di0&t=57s
 https://www.youtube.com/watch?v=QMwaNN_aM3U&t=310s
