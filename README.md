@@ -4,6 +4,8 @@
 The proper APK file is "app-release.apk" under the required address
 
 #Reference: 
+#The full format is in the code above the function or part that related.
+#Here is just a preview:
 https://www.youtube.com/watch?v=33BFCdL0Di0
 https://www.youtube.com/watch?v=33BFCdL0Di0&t=57s
 https://www.youtube.com/watch?v=QMwaNN_aM3U&t=310s
